@@ -1,5 +1,4 @@
 # Sentiment-Analysis-Twitter
-Sentiment Analysis on Twitter Data (Demonitization Sentiments in 2016)  Goal – Try to predict positive and negative sentiments and plot visualizations
 •	Sentiment Analysis on Twitter Data (Demonitization Sentiments in 2016)
 •	Goal – Try to predict positive and negative sentiments and plot visualizations.
 •	Description  - 
